@@ -1,53 +1,40 @@
-## Hi there 👋
+## Hi 👋 I'm Junyoung Jeon.
 
-## Interests
+## ✨Interests
 
-- **Industrial IoT Monitoring Systems**
-  - Air quality sensing, on-site environmental data collection
-  - LTE-based sensor nodes, MQTT pipelines
+- **IoT Embedded Systems (Nordic SoC)**
+  - Cellular-enabled environmental sensor firmware · GPIO/SPI integration · Remote field deployment
 
-- **Data Analytics**
-  - Data preprocessing, exploratory analysis
-  - Decision-making based on real-world datasets
+- **Embedded Control Systems (STM32)**
+  - Bluetooth communication · MPU (SPI) interfacing · PWM motor control · Real-time firmware design
 
-- **Applied AI & Simulation**
-  - Reinforcement Learning (Isaac Sim)
-  - Control policy tuning & reward design
+- **Cloud Data Pipeline**
+  - MQTT (EMQX) on GCP · Edge-to-cloud ingestion · MongoDB storage · End-to-end system validation
 
-- **Tech for Public & Industrial Use**
-  - Environmental monitoring
-  - Data-driven public systems (B2G / B2B)
 
 
 ---
 
-## Careers
+## 📊Careers
 
-- **Undergraduate Research Experience**
-  - Low-cost air quality sensor network system
-  - Designed LTE-based portable nodes (nRF91 + MQTT + Cloud DB)
+- **Research Assistant Intern | Desert Research Institute (USA)(2025/05~12)**
+  - Developed low-cost air quality sensor network system
+  - Designed LTE-enabled portable nodes (nRF91 · MQTT · Cloud DB)
 
-- **Reinforcement Learning Robot Project**
-  - Custom URDF-based biped simulation
-  - Environment configuration & reward tuning (Isaac Lab)
+- **B.S. Candidate, Electrical Engineering(2022~)**
+  - Korea University of Technology and Education (KOREATECH)
 
-- **Startup Concept Exploration**
-  - AI-based government support program matching SaaS
-  - Focused on B2B/B2G opportunities
+---
+
+## 🏄‍♀️Community Activities
+
+- **UKC 2025 Poster Presentation (U.S.–Korea Conference, KSEA)**
+- **STEM Education Program | LS Group & Green Umbrella Children’s Foundation**
 
 
 ---
 
-## Community Activities
-
-- Research poster presentation (Air quality monitoring)
-- Technical experimentation in IoT & robotics systems
-- Continuous learning in data analytics & system design
-
-
----
-
-## Contacts
+## 💬Contacts
 
 - LinkedIn: (your link)
 - Email: (your email)
