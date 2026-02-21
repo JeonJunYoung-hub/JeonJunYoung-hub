@@ -27,7 +27,8 @@
 ## 🏄‍♀️Community Activities
 
 - **UKC 2025 Poster Presentation (U.S.–Korea Conference, KSEA)**
-- **STEM Education Program | LS Group & Green Umbrella Children’s Foundation**
+- **STEM Program Instructor | LS Group & Green Umbrella Children’s Foundation**
+  - Led a one-month science kit workshop for elementary students
 
 
 
