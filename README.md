@@ -35,7 +35,7 @@
 ## 💬Contacts
 
 - LinkedIn: [Link](https://www.linkedin.com/in/junyoung-j-20a51830a/?isSelfProfile=true)
-- Email: [Gmail](young011204@gmail.com)
+- Email: young011204@gmail.com
 - Portfolio: [Website](https://jeonjunyoung-hub.github.io/Resume/)
 <!--
 **JeonJunYoung-hub/JeonJunYoung-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
