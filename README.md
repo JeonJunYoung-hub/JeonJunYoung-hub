@@ -13,8 +13,6 @@
 
 
 
----
-
 ## 📊Careers
 
 - **Research Assistant Intern | Desert Research Institute (USA)(2025/05~12)**
@@ -24,7 +22,7 @@
 - **B.S. Candidate, Electrical Engineering(2022~)**
   - Korea University of Technology and Education (KOREATECH)
 
----
+
 
 ## 🏄‍♀️Community Activities
 
@@ -32,13 +30,13 @@
 - **STEM Education Program | LS Group & Green Umbrella Children’s Foundation**
 
 
----
+
 
 ## 💬Contacts
 
-- LinkedIn: (your link)
-- Email: (your email)
-- Portfolio (optional)
+- LinkedIn: [Link](https://www.linkedin.com/in/junyoung-j-20a51830a/?isSelfProfile=true)
+- Email: [Gmail](young011204@gmail.com)
+- Portfolio: [Website](https://jeonjunyoung-hub.github.io/Resume/)
 <!--
 **JeonJunYoung-hub/JeonJunYoung-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
