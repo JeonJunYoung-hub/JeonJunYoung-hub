@@ -1,4 +1,4 @@
-#                                               Hi 👋 I'm Junyoung Jeon.
+# .<h2 align="center">Hi 👋 I'm Junyoung Jeon</h2>
 
 ## ✨Interests
 
