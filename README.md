@@ -4,6 +4,9 @@
 
 - **IoT Embedded Systems (Nordic SoC)**
   - Cellular-enabled environmental sensor firmware · GPIO/SPI integration · Remote field deployment
+  - **nRF9151** — DK and a custom carrier PCB, flashed and debugged over JTAG (SEGGER J-Link)
+  - **nRF5340** — BLE wearable air-quality node, dual-core Zephyr build
+  - **TI IWRL6432** — mmWave presence radar, UART TLV stream into an nRF5340 host
 
 - **Embedded Control Systems (STM32)**
   - Bluetooth communication · MPU (SPI) interfacing · PWM motor control · Real-time firmware design
